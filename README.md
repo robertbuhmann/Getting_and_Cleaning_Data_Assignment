@@ -1,6 +1,6 @@
 # Getting_and_Cleaning_Data_Assignment
 
-Tidied data are contained in the files "tidy_train.csv" and tidy_test.csv"
+Tidied data are contained in the files "tidy_train.csv" and tidy_test.csv"; information on variables for these files is contained within "codebook.txt"
 
 The code contained within "run_analysis.R" will organize the data test and train datasets, which are part of the human activity recognition dataset, as per the assignment instructions.
 
