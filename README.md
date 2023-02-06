@@ -1,5 +1,7 @@
 # Getting_and_Cleaning_Data_Assignment
 
+Tidied data are contained in the files "tidy_train.csv" and tidy_test.csv"
+
 The code contained within "run_analysis.R" will organize the data test and train datasets, which are part of the human activity recognition dataset, as per the assignment instructions.
 
 Running the code in run_analysis.R will require loading and installing  the "dplyr" package. Users should load the .txt files referenced in the code from their specific directory. Names of the .txt files refrenced in tidy_code have not been changed following their download from the source.
